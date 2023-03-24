@@ -1,3 +1,3 @@
-that my first python app 
+that my first python app
 
 https://albumap.herokuapp.com/
